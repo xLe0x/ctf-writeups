@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb569cbce090930",
+        "id": "97b8e89ecb3e3260",
         "type": "tabs",
         "children": [
           {
-            "id": "b925ef1c7a18b335",
+            "id": "eb79b0223632c8bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Linux/Easy/Nocturnal.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nocturnal"
             }
           }
         ]
@@ -161,21 +165,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b925ef1c7a18b335",
+  "active": "eb79b0223632c8bb",
   "lastOpenFiles": [
+    "assets/Pasted image 20250518205717.png",
+    "assets/Pasted image 20250518205451.png",
+    "assets/Pasted image 20250518205342.png",
+    "assets/Pasted image 20250518205307.png",
+    "assets/Pasted image 20250518205236.png",
+    "assets/Pasted image 20250518204926.png",
+    "assets/Pasted image 20250518204623.png",
+    "assets/Pasted image 20250518204428.png",
+    "assets/Pasted image 20250518204302.png",
+    "assets/Pasted image 20250518204111.png",
+    "assets/Pasted image 20250518203855.png",
+    "HTB/Linux/Easy/Nocturnal.md",
+    "HTB/Linux/Easy",
+    "HTB/Linux",
+    "HTB",
     "BYUCTF-2025/Web/JWTF.md",
-    "assets/Pasted image 20250517201429.png",
     "BYUCTF-2025/Web/Cooking Flask.md",
-    "assets/Pasted image 20250517181102.png",
-    "assets/Pasted image 20250517180820.png",
     "BYUCTF-2025/Web/Willy Wonka Web.md",
-    "assets/Pasted image 20250517180734.png",
-    "assets/Pasted image 20250517171937.png",
-    "assets/Pasted image 20250517171144.png",
-    "assets/Pasted image 20250517171135.png",
-    "assets/Pasted image 20250517170927.png",
-    "assets/Pasted image 20250517170623.png",
-    "assets/Pasted image 20250517170551.png",
     "BYUCTF-2025/Web/Red This.md",
     "assets"
   ]
